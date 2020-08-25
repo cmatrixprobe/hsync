@@ -1,0 +1,16 @@
+{
+    "hosts":{
+        "default":{
+           "host":"xxx.example.com:8600",
+           "token":"hsyncTokenDemo@20141226"
+        },
+        "other":{
+           "host":"xxx.example.com:8700",
+           "token":"hsyncTokenDemo@20141226"
+        }
+    },
+    "home":"./data/",
+    "ignore":[
+        "log/*"
+    ]
+}
